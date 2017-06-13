@@ -1,1 +1,112 @@
 
+al224@afs6.njit.edu's password: 
+
+<<<<<<<<<<<<<<<<<<<<<< .cshrc  >>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Starting /afs/cad/u/a/l/al224/.cshrc ... std AFS ~/.cshrc
+
+Reading the UCS standard aliases ...
+(To see what your aliases are, type "alias") 
+========================
+
+==> AFS disk quota in your home directory [ /afs/cad/u/a/l/al224 ] :
+	
+Volume Name                    Quota       Used %Used   Partition
+user.al224                   1000000        420    0%         70%  
+
+		Quota = 1.00   Gbytes    
+
+		Used  = 0.00   Gbytes    
+
+		  Note: "Partition" refers to the percentage use of the disk
+			 that the AFS volume is on.
+	
+		
+	To free up disk space, including Firefox & Chrome cache, enter : 
+			
+			clean.home
+			(/usr/ucs/bin/clean.home)
+
+Calculating Firefox cache usage ...
+Put a file named "NoCalcCache" in your home directory to suppress.
+
+/usr/local/bin/gfind: `/afs/cad/u/a/l/al224/.mozilla/firefox/*.default': No such file or directory
+========================
+
+End of /afs/cad/u/a/l/al224/.cshrc
+
+<<<<<<<<<<<<<<<<<<<<<< .login  >>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Starting /afs/cad/u/a/l/al224/.login ... std AFS ~/.login
+Set environment vars ....
+Set path ......
+
+Source in ~/.Login-<sun, linux> if present
+
+End of /afs/cad/u/a/l/al224/.login
+
+
+On host afsconnect2.njit.edu:
+
+ 19:57:01 up 14:16,  6 users,  load average: 0.00, 0.00, 0.00
+afsconnect2-1 al224>: ls
+BACKUP-AFS.ACCOUNT/  UCS-README  mini_project_one/  public_html/  q
+afsconnect2-2 al224>: cd public_html/
+/afs/cad/u/a/l/al224/public_html
+afsconnect2.njit.edu-3 public_html>: ls
+IS601/	UPLOADS/  download/  homework1/  homework2/  index.html  is601su17/
+afsconnect2.njit.edu-4 public_html>: cd homework2/
+/afs/cad/u/a/l/al224/public_html/homework2
+afsconnect2.njit.edu-5 homework2>: ls
+css/  index.html
+afsconnect2.njit.edu-6 homework2>: vi css/
+afsconnect2.njit.edu-7 homework2>: ls
+css/  index.html
+afsconnect2.njit.edu-8 homework2>: vi css
+afsconnect2.njit.edu-9 homework2>: cd ..
+/afs/cad/u/a/l/al224/public_html
+afsconnect2.njit.edu-10 public_html>: ls
+IS601/	UPLOADS/  download/  homework1/  homework2/  index.html  is601su17/
+afsconnect2.njit.edu-11 public_html>: cd homework1/
+/afs/cad/u/a/l/al224/public_html/homework1
+afsconnect2.njit.edu-12 homework1>: ls
+css/  index.html
+afsconnect2.njit.edu-13 homework1>: vi css/
+afsconnect2.njit.edu-14 homework1>: vi css
+afsconnect2.njit.edu-15 homework1>: ls
+css/  index.html
+afsconnect2.njit.edu-16 homework1>: vi index.html
+afsconnect2.njit.edu-17 homework1>: vi css
+afsconnect2.njit.edu-18 homework1>: vi style.css
+afsconnect2.njit.edu-19 homework1>: ls
+css/  index.html
+afsconnect2.njit.edu-20 homework1>: cd css/
+/afs/cad/u/a/l/al224/public_html/homework1/css
+afsconnect2.njit.edu-21 css>: ls
+style.css
+afsconnect2.njit.edu-22 css>: vi style.css
+
+font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+font-size: 26
+px;
+color: #C63D0F;
+text-align: center;
+}
+
+a {
+color:#C63Dof;
+}
+
+
+h2 {
+font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+font-size: 24px;
+font-style: normal;
+font-variant: normal;
+font-weight: 500;
+line-height: 15p
+color: #3B3738;
+text-align:left;
+padding: 10px;
+}
+                                                              28,1          Bot
