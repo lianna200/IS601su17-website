@@ -1,0 +1,28 @@
+html {
+    background-color: #FDF3E7;
+    }
+
+h1 {
+font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+font-size: 26
+px;
+color: #C63D0F;
+text-align: center;
+}
+
+a {
+color:#C63Dof;
+}
+
+
+h2 {
+font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+font-size: 24px;
+font-style: normal;
+font-variant: normal;
+font-weight: 500;
+line-height: 15p
+color: #3B3738;
+text-align:left;
+padding: 10px;
+}
